@@ -11,4 +11,4 @@ Symfony Work with the User's Locale
 Read [User's Locale Docs](https://symfony.com/doc/current/translation/locale.html)
 
 ## License
-The code is licensed under the [MIT License](https://github.com/habibun/xxx/blob/master/LICENSE).
+The code is licensed under the [MIT License](https://github.com/habibun/symfony-user-locale/blob/master/LICENSE).
